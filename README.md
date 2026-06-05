@@ -1,6 +1,6 @@
 # Dataset exploration notebook
 
-This project provides tools to inspect panel time-series datasets, where rows are timestamps and columns are users, sensors, or individual series.
+This project provides tools to inspect panel time series datasets.
 
 ## Files
 
@@ -20,14 +20,7 @@ The notebook helps analyze a multivariate time-series dataset from several angle
 4. Compute descriptive statistics such as sampling rate, missing values, skewness, kurtosis, correlations, distances, lags, and seasonalities.
 5. Visualize individual series, trends, aggregates, gamma features, and sampled input/forecast windows.
 6. Explore daily, weekly, and yearly seasonality with circular plots.
-7. Compare sampled windows using mean/std and alpha/beta statistics.
+7. Compare sampled windows using mean/std statistics.
 8. Compare train, validation, and test splits with energy-distance matrices.
 9. Cluster users or sensors using raw, Fourier, or gamma representations.
 10. Visualize sampled windows with t-SNE, MDS, and UMAP.
-
-## Data loading
-
-In Colab, place the scripts next to the notebook in:
-
-```text
-/content/drive/MyDrive/Recherche/Thèse Gaspard/Codes/
