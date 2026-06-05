@@ -26,6 +26,6 @@ The notebook helps analyze a multivariate time-series dataset from several angle
 
 <img width="675" height="271" alt="widget" src="https://github.com/user-attachments/assets/1c5423d9-37a2-46d1-8a48-48d37feb7a3b" />
 <img width="250" height="175" alt="period" src="https://github.com/user-attachments/assets/ca5f94b0-7b83-4e7c-8f8d-50bf5d356f84" />
-<img width="807" height="237" alt="clusters" src="https://github.com/user-attachments/assets/a4fd5c57-811a-45e2-bdec-7cd51da4a25c" />
 <img width="425" height="260" alt="tsne" src="https://github.com/user-attachments/assets/9a2c8392-0024-41c9-93d5-bb83a70a14e2" />
+<img width="750" height="220" alt="clusters" src="https://github.com/user-attachments/assets/a4fd5c57-811a-45e2-bdec-7cd51da4a25c" />
 
