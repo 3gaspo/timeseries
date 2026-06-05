@@ -8,7 +8,7 @@ This project provides tools to inspect panel time series datasets.
 - `clustering_utils.py`: Distance, hierarchical clustering, centroid, grouping, and heterogeneity utilities.
 - `widgets_and_plots.py`: Interactive widgets and plots for series, windows, seasonality, statistics, distances, clustering, and projections.
 - `analysis.py`: Single import entry point for the utility modules.
-- `dataset_refactored.ipynb`: Notebook for loading, inspecting, visualizing, comparing, and clustering time-series datasets.
+- `dataset_visualization.ipynb`: Notebook for loading, inspecting, visualizing, comparing, and clustering time-series datasets.
 
 ## Notebook overview
 
