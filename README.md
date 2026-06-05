@@ -4,11 +4,11 @@ This project provides tools to inspect panel time series datasets.
 
 ## Files
 
-- `general_utils.py`: data preparation, normalization, train/validation/test splitting, Fourier and gamma feature extraction, dataset statistics, and window sampling.
-- `clustering_utils.py`: distance computation, hierarchical clustering, cluster centroids, cluster grouping, and heterogeneity scores.
-- `widgets_and_plots.py`: interactive notebook widgets and plots for time series, windows, seasonality, statistics, distances, clustering, and 2D projections.
-- `analysis.py`: convenience import file that exposes the utilities from the other modules.
-- `dataset_refactored.ipynb`: notebook for loading a dataset, computing statistics, visualizing patterns, comparing splits, and clustering users or sensors.
+- `general_utils.py`: Core data loading, preparation, normalization, statistics, splitting, and window/feature utilities.
+- `clustering_utils.py`: Distance, hierarchical clustering, centroid, grouping, and heterogeneity utilities.
+- `widgets_and_plots.py`: Interactive widgets and plots for series, windows, seasonality, statistics, distances, clustering, and projections.
+- `analysis.py`: Single import entry point for the utility modules.
+- `dataset_refactored.ipynb`: Notebook for loading, inspecting, visualizing, comparing, and clustering time-series datasets.
 
 ## Notebook overview
 
